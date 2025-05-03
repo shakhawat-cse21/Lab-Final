@@ -62,7 +62,7 @@ const companies = [
     _id: "8",
     name: "Walton Group",
     sector: "Electronics and Home Appliances",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Walton_Group_logo.png",
+    logo: "https://images.seeklogo.com/logo-png/25/1/walton-logo-png_seeklogo-251022.png",
     headquarters: "Dhaka, Bangladesh",
     founded: 1977
   },
@@ -70,7 +70,7 @@ const companies = [
     _id: "9",
     name: "Jamuna Group",
     sector: "Conglomerate (Real Estate, Textile, etc.)",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jamuna_Group_Logo.png",
+    logo: "https://jamunagroup.com.bd/images/logo/1662050814-company-logo.png",
     headquarters: "Dhaka, Bangladesh",
     founded: 1974
   },
@@ -78,7 +78,7 @@ const companies = [
     _id: "10",
     name: "Madhur Bansuri",
     sector: "Food Products (Rice)",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Madhur_Bansuri_logo.png",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZV9F6lv5ncCRwieIbGDhZ-f0seq2PvOLfnA&s",
     headquarters: "Dhaka, Bangladesh",
     founded: 2000
   }
